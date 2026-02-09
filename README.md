@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre/Nick] 👋
 
-<!--
-**alvarorm3008/alvarorm3008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy un desarrollador enfocado en [tus intereses, ej: visualización de datos y astronomía]. Me encanta transformar datos complejos en interfaces interactivas y fáciles de entender.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente trabajando en: **Visualización de Exoplanetas**
+- 🌱 Aprendiendo: [Ejemplo: React o Three.js]
+- 💬 Pregúntame sobre: JavaScript, CSS y el espacio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📂 Proyectos Destacados
+### 🪐 [Visualización de Exoplanetas](enlace-a-tu-repo)
+Línea de tiempo dinámica que carga datos desde JSON.
+- **Tech:** Vanilla JS, HTML5, CSS3.
+- [Ver Demo en Vivo 🚀](enlace-a-tu-github-pages)
+
+---
+### 📈 Mis Estadísticas
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
