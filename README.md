@@ -1,28 +1,40 @@
 # ¡Hola! Soy Alvaro Rodriguez Martinez 👋 (@alvarorm3008)
 
 ## 🚀 Sobre mí
-Soy un desarrollador con un fuerte interés en la **ciencia de datos** y la **visualización web**. Actualmente estoy trabajando en proyectos que combinan astronomía con tecnologías modernas como Next.js y procesamiento de datos con Python.
+Soy un desarrollador apasionado por la resolución de problemas complejos y el aprendizaje continuo. Mi enfoque se centra en construir software sólido, desde algoritmos de lógica pura hasta visualizaciones de datos impactantes.
 
-- 🔭 **Proyecto destacado:** Visualización interactiva de exoplanetas usando datos de la NASA.
-- 🛠️ **Stack actual:** JavaScript (ES6+), Python, Next.js y Supabase.
-- 📊 **Dato curioso:** Me gusta procesar grandes datasets para encontrar patrones en el cosmos.
+- 🎓 **Enfoque:** Aprendiendo y evolucionando constantemente en el desarrollo de software y la ingeniería de datos.
+- 🛠️ **Especialidades:** Implementación de arquitecturas limpias, algoritmia y procesamiento de información.
+- 💡 **Filosofía:** "El código limpio y una lógica eficiente son la base de cualquier gran solución".
 
 ## 🛠️ Tecnologías
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📂 Repositorios Clave
-### 🪐 [Exoplanet Visualization](https://github.com/alvarorm3008/VISUALIZATION-UIB)
-Análisis y visualización de planetas extrasolares.
-- **Backend/Data:** Python (scripts de procesamiento de CSV).
-- **Frontend:** HTML5/JS/CSS (Timeline interactiva).
-- [Ver Demo en Vivo 🚀](https://alvarorm3008.github.io/VISUALIZATION-UIB/timeline.html)
+---
+
+## 📂 Proyectos Destacados
+
+### 🧩 [Kenken-solver](https://github.com/alvarorm3008/Kenken-solver)
+Implementación profesional de un generador y resolutor de KenKen en Java.
+- **Backtracking:** Algoritmo optimizado para la resolución de tableros complejos.
+- **Clean Architecture:** Separación estricta entre presentación, dominio y persistencia.
+- **GUI:** Interfaz de usuario intuitiva desarrollada con Java Swing.
+
+### 🪐 [Exoplanet-Visualization](https://github.com/alvarorm3008/Exoplanet-Visualization)
+Proyecto de análisis y visualización de candidatos a exoplanetas habitables.
+- **Data Analysis:** Procesamiento de datasets de la NASA mediante Python.
+- **Visualización:** Timeline interactiva utilizando D3.js para explorar el Earth Similarity Index.
 
 ---
 
 ## 📈 Mi Actividad en GitHub
 ![Estadísticas de Alvaro](https://github-readme-stats.vercel.app/api?username=alvarorm3008&show_icons=true&theme=tokyonight)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarorm3008&layout=compact&theme=tokyonight)
+
+---
+
+📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/alvaro-rodriguez-martinez)
