@@ -31,10 +31,4 @@ Data analysis and visualization project for potentially habitable exoplanet cand
 
 ---
 
-## 📈 GitHub Activity
-![Alvaro's Stats](https://github-readme-stats.vercel.app/api?username=alvarorm3008&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarorm3008&layout=compact&theme=tokyonight)
-
----
-
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/alvaro-rodriguez-martinez)
+📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/alvaro-rodriguez-martinez-75a3672b8)
