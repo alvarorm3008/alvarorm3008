@@ -31,4 +31,4 @@ Data analysis and visualization project for potentially habitable exoplanet cand
 
 ---
 
-📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/alvaro-rodriguez-martinez-75a3672b8)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/alvaro-rodriguez-martinez-75a3672b8)
