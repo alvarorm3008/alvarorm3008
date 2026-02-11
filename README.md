@@ -1,13 +1,13 @@
-# ¡Hola! Soy Alvaro Rodriguez Martinez 👋 (@alvarorm3008)
+# Hi there! I'm Alvaro Rodriguez Martinez 👋 (@alvarorm3008)
 
-## 🚀 Sobre mí
-Soy un desarrollador apasionado por la resolución de problemas complejos y el aprendizaje continuo. Mi enfoque se centra en construir software sólido, desde algoritmos de lógica pura hasta visualizaciones de datos impactantes.
+## 🚀 About Me
+I am a developer driven by solving complex problems and a commitment to continuous learning. My focus lies in building robust software, ranging from pure logic algorithms to impactful data visualizations.
 
-- 🎓 **Enfoque:** Aprendiendo y evolucionando constantemente en el desarrollo de software y la ingeniería de datos.
-- 🛠️ **Especialidades:** Implementación de arquitecturas limpias, algoritmia y procesamiento de información.
-- 💡 **Filosofía:** "El código limpio y una lógica eficiente son la base de cualquier gran solución".
+- 🎓 **Focus:** Constantly learning and evolving in software engineering and data processing.
+- 🛠️ **Specialties:** Implementing clean architectures, algorithm optimization, and efficient data handling.
+- 💡 **Philosophy:** "Clean code and efficient logic are the foundation of any great solution."
 
-## 🛠️ Tecnologías
+## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,25 +16,25 @@ Soy un desarrollador apasionado por la resolución de problemas complejos y el a
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Featured Projects
 
 ### 🧩 [Kenken-solver](https://github.com/alvarorm3008/Kenken-solver)
-Implementación profesional de un generador y resolutor de KenKen en Java.
-- **Backtracking:** Algoritmo optimizado para la resolución de tableros complejos.
-- **Clean Architecture:** Separación estricta entre presentación, dominio y persistencia.
-- **GUI:** Interfaz de usuario intuitiva desarrollada con Java Swing.
+Professional implementation of a KenKen generator and solver in Java.
+- **Backtracking:** Optimized algorithm for solving complex board constraints.
+- **Clean Architecture:** Strict separation between Presentation, Domain, and Persistence layers.
+- **GUI:** Intuitive user interface developed using Java Swing.
 
 ### 🪐 [Exoplanet-Visualization](https://github.com/alvarorm3008/Exoplanet-Visualization)
-Proyecto de análisis y visualización de candidatos a exoplanetas habitables.
-- **Data Analysis:** Procesamiento de datasets de la NASA mediante Python.
-- **Visualización:** Timeline interactiva utilizando D3.js para explorar el Earth Similarity Index.
+Data analysis and visualization project for potentially habitable exoplanet candidates.
+- **Data Analysis:** Processing NASA datasets using Python.
+- **Visualization:** Interactive timeline using D3.js to explore the Earth Similarity Index (ESI).
 
 ---
 
-## 📈 Mi Actividad en GitHub
-![Estadísticas de Alvaro](https://github-readme-stats.vercel.app/api?username=alvarorm3008&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarorm3008&layout=compact&theme=tokyonight)
+## 📈 GitHub Activity
+![Alvaro's Stats](https://github-readme-stats.vercel.app/api?username=alvarorm3008&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarorm3008&layout=compact&theme=tokyonight)
 
 ---
 
-📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/alvaro-rodriguez-martinez)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/alvaro-rodriguez-martinez)
