@@ -20,7 +20,6 @@ I am a developer driven by solving complex problems and a commitment to continuo
 ## 📂 Featured Projects
 
 ### ⚡ [Programming-Exercices](https://github.com/alvarorm3008/Programming-Exercices)
-*Substitute the link above with your actual repo URL if different.*
 A comprehensive collection of **100+ optimized solutions** developed for the UPC-FIB curriculum.
 - **Advanced Logic:** Implementation of Graph Theory (Dijkstra, BFS/DFS), Dynamic Programming, and Backtracking.
 - **Performance:** Focus on time/space complexity analysis and C++ STL efficiency.
