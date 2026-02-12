@@ -19,14 +19,14 @@ I am a developer driven by solving complex problems and a commitment to continuo
 
 ## 📂 Featured Projects
 
-### ⚡ [Algorithmic-Problem-Solving](https://github.com/alvarorm3008/Algorithmic-Problem-Solving)
+### ⚡ [Programming-Exercices](https://github.com/alvarorm3008/Programming-Exercices)
 *Substitute the link above with your actual repo URL if different.*
 A comprehensive collection of **100+ optimized solutions** developed for the UPC-FIB curriculum.
 - **Advanced Logic:** Implementation of Graph Theory (Dijkstra, BFS/DFS), Dynamic Programming, and Backtracking.
 - **Performance:** Focus on time/space complexity analysis and C++ STL efficiency.
 - **Documentation:** Structured portfolio with automated index generation and detailed categorization.
 
-### 🧩 [Kenken-solver](https://github.com/alvarorm3008/Kenken-solver)
+### 🧩 [Kenken-Solver](https://github.com/alvarorm3008/Kenken-Solver)
 Professional implementation of a KenKen generator and solver in Java.
 - **Backtracking:** Optimized algorithm for solving complex board constraints.
 - **Clean Architecture:** Strict separation between Presentation, Domain, and Persistence layers.
