@@ -13,10 +13,11 @@ I am a developer driven by solving complex problems and a commitment to continuo
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -46,6 +47,12 @@ Full-stack **monorepo** for a Barcelona culture and leisure app: points of inter
 - **Backend:** Django REST Framework, PostgreSQL, JWT authentication, OpenAPI (Swagger), Firebase Admin for notifications.
 - **Mobile:** Android app with **Kotlin**, Jetpack Compose, and integrations with maps, mobility APIs, and Firebase (Auth, FCM).
 - **Structure:** Single repository with clear `backend/` and `frontend/` separation for API and client.
+
+### 📰 [Hacker-News-Project](https://github.com/alvarorm3008/Hacker-News-Project)
+Full-stack **Hacker News**–style platform (ASW — web applications and services): news feeds, submissions, comments, threads, voting, and user profiles with API-key authentication.
+- **Backend:** Django, Django REST Framework, OpenAPI documentation (Swagger / ReDoc), django-allauth (Google OAuth), optional AWS S3 for media, SQLite locally.
+- **Frontend:** **React 18**, **Vite**, React Router, axios; environment-based API URL and profile keys.
+- **Structure:** Monorepo with `backend/` and `frontend/`, secrets via `.env` / `.env.local` (no credentials in the repo).
 
 ---
 
