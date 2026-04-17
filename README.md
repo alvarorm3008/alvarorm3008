@@ -36,6 +36,12 @@ Data analysis and visualization project for potentially habitable exoplanet cand
 - **Data Analysis:** Processing NASA datasets using Python.
 - **Visualization:** Interactive timeline using D3.js to explore the Earth Similarity Index (ESI).
 
+### 🏛️ [BCNGo](https://github.com/alvarorm3008/bcngo-backend)
+Full-stack **monorepo** for a Barcelona culture and leisure app: points of interest, itineraries, events, passport/gamification, and user features.
+- **Backend:** Django REST Framework, PostgreSQL, JWT authentication, OpenAPI (Swagger), Firebase Admin for notifications.
+- **Mobile:** Android app with **Kotlin**, Jetpack Compose, and integrations with maps, mobility APIs, and Firebase (Auth, FCM).
+- **Structure:** Single repository with clear `backend/` and `frontend/` separation for API and client.
+
 ---
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/alvaro-rodriguez-martinez-75a3672b8)
